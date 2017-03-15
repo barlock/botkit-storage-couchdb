@@ -1,6 +1,6 @@
 {
   "name": "botkit-storage-couchdb",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A CouchDB storage driver for Botkit",
   "main": "lib/storage.js",
   "scripts": {
